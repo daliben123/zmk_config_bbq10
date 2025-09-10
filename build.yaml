@@ -12,6 +12,7 @@
 #     shield: reviung41
 ---
 include:
-  - board: bbq20
+  - board: bbq10
     snipppet: studio-rpc-usb-uart
+
 
